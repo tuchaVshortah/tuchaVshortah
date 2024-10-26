@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a cybersecurity engineer with a passion for protecting digital assets and systems from cyber threats.
+I am a developer with a passion for protecting digital assets and systems from cyber threats.
 
 
 ## 🌐 Socials:
